@@ -4,7 +4,7 @@ Socket.io &amp; Node.js Realtime chat application
 # Installation
 
 Pour lancer le projet sur votre PC, après avoir cloner le dépot, lancer la commande 
-``sh
+```sh
 npm install
 ```
 
