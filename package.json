@@ -1,0 +1,22 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "Application de chat en temps reel avec node.js et socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Socket.io",
+    "Node.js",
+    "JS",
+    "HTML",
+    "Bootstrap"
+  ],
+  "author": "Wilfried Djopa",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.0"
+  }
+}
